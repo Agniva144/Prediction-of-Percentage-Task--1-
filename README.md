@@ -1,11 +1,11 @@
-#Task--1-
+**Task--1**
 AUTHOR : AGNIVA SHIL
 
 The Spark Foundation - Data Science and Business Analytics Internship
 
 (GRIP JANUARY'23)
 
-#Prediction-of-Percentage
+**Prediction-of-Percentage**
 
  Predict the percentage of an student based on the no. of study hours.
 
